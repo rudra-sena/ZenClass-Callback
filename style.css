@@ -1,0 +1,13 @@
+.display{
+    margin: 100px auto;
+    display:flex;
+    justify-content:center;
+    font-size: 100px;
+    font-weight: 300;
+}
+
+.display h1{
+    color: rgb(24, 104, 224);
+    font-weight: 700;
+    font-size: 50px;
+}
